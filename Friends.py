@@ -18,11 +18,11 @@ class Friends:
         return False
 #--------------------------------------------
     def names(self):
-        a = (self.connections)[0]
+        #a = (self.connections)[0]
+        p = set()
         for i in self.connections:
-            p = i | a
-        (list(p)).sort()
-        return set(p)
+            p = p | i
+        return p
 #----------------------------------------------
     def connected(self, name):
         a = set()

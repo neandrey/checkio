@@ -8,12 +8,12 @@ def lowerLetter(text):
     :param text: string simbol
     :return: lower string simbol
     """
-    return  text.lower()
+    return text.lower()
 #--------------------------
 def removeSingleAndCountWord(text):
     '''
     :param text: string simbol
-    :return: L->[], and world - count word
+    :return: L->[], world - count word
     '''
     world = 0
     L = []
@@ -21,7 +21,7 @@ def removeSingleAndCountWord(text):
         z = text.index(tx)
         if tx == ' ' and re.match(r'[a-z]', text[z+1]):
             world += 1
-        if re.match(r'[a-z]', tx):
+        if re.match(r'[a-z\s]', tx):
             L.append(tx)
     return L, world
 #---------------------------
@@ -35,6 +35,8 @@ def checkFunction(L, t1, t2):
     i = 0
     try:
         while (True):
+            if L[i+1] == ' ':
+
             if(L[i] in t1) == (L[i+1] in t1) or (L[i] in t2) == (L[i+1] in t2):
                 return False
             i += 1
