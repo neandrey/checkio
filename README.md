@@ -17,4 +17,7 @@
 
 [code](https://github.com/neandrey/checkio)
 
-
+1. housePasseord [task](https://py.checkio.org/ru/mission/house-password/) [solutions](https://github.com/neandrey/checkio/blob/master/housePassword.py)
+2. commonWord [task](https://py.checkio.org/ru/mission/common-words/) [solutions](https://github.com/neandrey/checkio/blob/master/commonWord.py)
+3. most wanted letter [task](https://py.checkio.org/ru/mission/most-wanted-letter/) [solutions](https://github.com/neandrey/checkio/blob/master/mostWanted.py)
+4. pawn broherhood [task](https://py.checkio.org/ru/mission/pawn-brotherhood/) [solutions](https://github.com/neandrey/checkio/blob/master/chess.py)
