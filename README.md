@@ -23,3 +23,8 @@
 4. pawn broherhood [task](https://py.checkio.org/ru/mission/pawn-brotherhood/) [solutions](https://github.com/neandrey/checkio/blob/master/chess.py)
 5. Min and Max [task](https://py.checkio.org/ru/mission/min-max/) [solutions](https://github.com/neandrey/checkio/blob/master/minAndMax.py)
 6. allTheSame  [task](https://py.checkio.org/ru/mission/all-the-same/) [solutions](https://github.com/neandrey/checkio/blob/master/allTheSame.py)
+7. Xs and Os Referee [task](https://py.checkio.org/ru/mission/x-o-referee/) [solutions](https://github.com/neandrey/checkio/blob/master/xsos.py)
+8. Median [task](https://py.checkio.org/ru/mission/median/) [solutions](https://github.com/neandrey/checkio/blob/master/median.py)
+9. Days Between [task](https://py.checkio.org/ru/mission/days-diff/) [solutions](https://github.com/neandrey/checkio/blob/master/daysDiff.py)
+10. Cipher Map [task](https://py.checkio.org/ru/mission/cipher-map2/) [solutions](https://github.com/neandrey/checkio/blob/master/narray.py)
+11. Ghost Age [task](https://py.checkio.org/ru/mission/ghosts-age/) [solutions](https://github.com/neandrey/checkio/blob/master/ghostFibonachi.py)
