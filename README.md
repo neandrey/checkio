@@ -28,3 +28,4 @@
 9. Days Between [task](https://py.checkio.org/ru/mission/days-diff/) [solutions](https://github.com/neandrey/checkio/blob/master/daysDiff.py)
 10. Cipher Map [task](https://py.checkio.org/ru/mission/cipher-map2/) [solutions](https://github.com/neandrey/checkio/blob/master/narray.py)
 11. Ghost Age [task](https://py.checkio.org/ru/mission/ghosts-age/) [solutions](https://github.com/neandrey/checkio/blob/master/ghostFibonachi.py)
+12. popularWords [task](https://py.checkio.org/ru/mission/popular-words/) [solutions](https://github.com/neandrey/checkio/blob/master/popularWords.py)
